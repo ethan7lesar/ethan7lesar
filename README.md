@@ -1,5 +1,5 @@
 ### Welcome 
-https://github.com/ethan7lesar/ethan7lesar/blob/main/LinkedIn%20cover%20-%201.png
+(https://i.postimg.cc/mrRzF1Pc/Linked-In-cover-1.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan7lesar&theme=shadow_red&show_icons=true)
 
 <!--
