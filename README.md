@@ -1,5 +1,9 @@
-### Welcome 
-(https://i.postimg.cc/mrRzF1Pc/Linked-In-cover-1.png)
+
+### Welcome To My Developer Journey
+
+![Linked-In-cover-1](https://github.com/ethan7lesar/ethan7lesar/assets/130046714/f20fe4f6-c72d-45d8-a285-a9179f18617a)
+<h2>Ethan Henry Lesar aspiring developer, with a keen interest in technology and business. I enjoy learning new things and creating new and exciting projects feel free to connect and colaborate. </h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan7lesar&theme=shadow_red&show_icons=true)
 
 <!--
