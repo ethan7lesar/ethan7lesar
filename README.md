@@ -3,7 +3,7 @@
 
 ![Linked-In-cover-1](https://github.com/ethan7lesar/ethan7lesar/assets/130046714/f20fe4f6-c72d-45d8-a285-a9179f18617a)
 <h2>Ethan Henry Lesar aspiring developer, with a keen interest in technology and business. I enjoy learning new things and creating new and exciting projects feel free to connect and collaborate. </h2>
-https://linktr.ee/ethanlesar
+<h2>LinkTree: https://linktr.ee/ethanlesar</h2>
 <h2>Skills:</h2>
 
 ![LinkedIn cover - 2](https://github.com/ethan7lesar/ethan7lesar/assets/130046714/dc618f89-6e34-4319-962e-3dd0f55068cc)
